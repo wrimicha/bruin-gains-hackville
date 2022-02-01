@@ -1,3 +1,8 @@
+## View the Project Here:
+https://devpost.com/software/bruingains
+
+![Screen Shot 2022-02-01 at 12 24 44 AM](https://user-images.githubusercontent.com/60019847/151917047-b4467214-ab36-448e-a588-15d52ed92be4.png)
+
 ## Inspiration
 
 College students like ourselves face many challenges and difficulties while attending. Two common issues we find students face are making friends and taking care of their health. For many students, it can be daunting to meet new people and many become isolated. Also, during the semester, we are often too busy with deadlines and assignments so we neglect to incorporate any physical activity into our daily schedule. This results in being over or underweight which leads to self-esteem and mental health issues. We wanted to create an application that would break our habits and develop beneficial ones instead.
